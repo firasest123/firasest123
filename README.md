@@ -94,4 +94,8 @@ I'm a full-stack developer from Tunisia, currently studying cybersecurity at SES
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/firasest123/firasest123/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firasest123/firasest123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firasest123/firasest123/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/firasest123/firasest123/output/github-snake.svg" />
+</picture>
